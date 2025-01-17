@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Super Bunny Bot<br>🌱 I’m currently learning Spring Boot and Go
+🔭 I’m currently working on Stella<br>🌱 I’m currently learning Spring Boot and Go
 
 
 ## 🌐 Socials:
