@@ -1,14 +1,60 @@
-# 💫 About Me:
-🔭 I’m currently working on Stella<br>🌱 I’m currently learning Spring Boot, Go, and Scala.
+<!-- 🧠 GekkoQuest GitHub Profile -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#9b5de5">John Guerra</span></h1>
+<h3 align="center">Software Engineer • AI Builder • Creator from Texas</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-guerra20) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=9B5DE5&center=true&vCenter=true&width=480&lines=Building+AI+that+Thinks+and+Feels;Engineering+Systems+that+Scale+Gracefully;Exploring+Rust%2C+Go%2C+and+Emerging+Tech;Pushing+Java+Beyond+Conventional+Limits" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GekkoQuest&icon=9&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧩 About Me
+> _"I build secure, scalable software — no fuss, high polish."_
+
+- 🧠 Working on **Stella**, an AI VTuber that chats, plays, and learns in real time  
+- ☕ Experienced in **Java**, **Go**, **Python**, and learning **Rust**  
+- 🧱 Building modular, event-driven AI systems and cloud services  
+- 🌐 [Portfolio → **gekko.quest**](https://gekko.quest)  
+- 💬 Ask me about backend architecture, concurrency, or AI integration  
+
+---
+
+### 📊 GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GekkoQuest&show_icons=true&theme=dracula&hide_border=false&border_radius=10&count_private=true" height="165" />
+</div>
+
+---
+
+### 💻 Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,go,rust,python,typescript,javascript,html,css&theme=dark" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+<div align="center">
+  <a href="mailto:gekkoquestdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/john-guerra20" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<br clear="both"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GekkoQuest/GekkoQuest/output/snake.svg" alt="snake animation" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GekkoQuest&color=9b5de5&style=for-the-badge" alt="Profile views" />
+</p>
