@@ -19,14 +19,6 @@
 
 ---
 
-### 📊 GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GekkoQuest&show_icons=true&theme=dracula&hide_border=false&border_radius=10&count_private=true" height="165" />
-</div>
-
----
-
 ### 💻 Languages
 
 <div align="center">
