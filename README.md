@@ -1,38 +1,56 @@
-<!-- 🧠 GekkoQuest GitHub Profile -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#9b5de5">John Guerra</span></h1>
-<h3 align="center">Software Engineer • AI Builder • Creator from Texas</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=9B5DE5&center=true&vCenter=true&width=480&lines=Building+AI+that+Thinks+and+Feels;Engineering+Systems+that+Scale+Gracefully;Exploring+Rust%2C+Go%2C+and+Emerging+Tech;Pushing+Java+Beyond+Conventional+Limits" alt="Typing SVG" />
-</p>
+<h1 align="center">John Guerra</h1>
+<h3 align="center">Backend Software Engineer • Real-Time Systems • Distributed Systems</h3>
 
 ---
 
-### 🧩 About Me
-> _"I build secure, scalable software — no fuss, high polish."_
+### 🧠 About Me
 
-- 🧠 Working on **Stella**, an AI VTuber that chats, plays, and learns in real time  
-- ☕ Experienced in **Java**, **Go**, **Python**, and learning **Rust**  
-- 🧱 Building modular, event-driven AI systems and cloud services  
-- 🌐 [Portfolio → **gekko.quest**](https://gekko.quest)  
-- 💬 Ask me about backend architecture, concurrency, or AI integration  
+I build **low-latency, real-time backend systems** focused on performance, concurrency, and reliability.
+
+- Built and operated systems handling **7,000+ concurrent connections**
+- Experience with **high-throughput, event-driven architectures**
+- Focused on **failure handling, system stability, and real-time data processing**
+- Strong background in **Java, Python, and distributed services**
+
+🌐 Website: https://gekko.quest  
+📫 Email: gekkoquestdev@gmail.com  
 
 ---
 
-### 💻 Languages
+### 🚀 Featured Work
+
+#### Real-Time AI Streaming System
+- Latency-sensitive backend processing live audio and generating responses in **sub-second time**
+- Multi-service orchestration with real-time streaming pipelines
+- Designed for **synchronization accuracy and concurrency safety**
+
+#### Low-Latency Trade Replication System
+- Sub-500ms execution across multiple accounts
+- Handles complex order states and failure scenarios
+- Built around **real-time event processing and system reliability**
+
+#### Multiplayer Game Backend (Dragonball Online Global)
+- Maintained distributed backend services handling high-throughput traffic
+- Processed high-frequency event streams at scale
+- Built systems for **real-time validation and anti-cheat detection**
+
+---
+
+### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,rust,python,typescript,javascript,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,go,rust,docker,aws,postgres,mongodb&theme=dark" />
 </div>
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect
+
 <div align="center">
-  <a href="mailto:gekkoquestdev@gmail.com" target="_blank">
+  <a href="mailto:gekkoquestdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/john-guerra20" target="_blank">
+  <a href="https://www.linkedin.com/in/john-guerra20">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -44,9 +62,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/GekkoQuest/GekkoQuest/output/snake.svg" alt="snake animation" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GekkoQuest&color=9b5de5&style=for-the-badge" alt="Profile views" />
-</p>
